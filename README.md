@@ -76,5 +76,5 @@ Future updates will:
 ---
 
 ## License
-No license has been added yet.  
-Feel free to explore and learn from the code and artifacts.
+This project is licensed under the [MIT License](LICENSE).  
+It is intended as a learning resource—feel free to explore the code and artifacts.
